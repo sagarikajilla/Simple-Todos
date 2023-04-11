@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.button {
+  color: #ff0b37;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  border-color: #ff0b37;
+  background-color: transparent;
+  height: 36px;
+  width: 80px;
+}
+.desc {
+  color: #000000;
+  font-size: 20px;
+}
